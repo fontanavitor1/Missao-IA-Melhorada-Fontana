@@ -14,14 +14,14 @@ const perguntas = [
                 texto: "Sim, acredito que a falta de interações presenciais pode levar ao aumento da solidão e de problemas emocionais.",
                 afirmacao:[
                  "O isolamento social causado pela interação virtual pode resultar em um aumento de sentimentos de solidão e ansiedade.",
-                 "afirmaçao 2"
+                 "A ausência de contato físico e experiências presenciais pode reduzir o senso de pertencimento e empatia."
                 ]
             },
             {
                 texto: "Não, acho que as interações online ainda permitem conexões suficientes para manter o equilíbrio emocional.",
                 afirmacao: [
                 "Permitem conexões suficientes para manter o equilíbrio emocional, desde que o uso seja equilibrado.",
-                "afirmaçao 2"
+                "As plataformas digitais possibilitam vínculos afetivos reais e apoio emocional mesmo à distância."
                 ]
             }
         ]
@@ -33,14 +33,14 @@ const perguntas = [
                 texto: "As redes sociais dificultam o acesso a informações confiáveis, devido à propagação de fake news e desinformação.",
                 afirmacao:[
                  "As redes sociais dificultam o acesso a informações confiáveis, pois a propagação de fake news e desinformação muitas vezes ofusca o conteúdo legítimo, criando um ambiente de confusão e desconfiança",
-                 "afirmaçao 2"
+                 "A falta de verificação rigorosa das fontes nas redes sociais contribui para a disseminação de informações incorretas e distorcidas."
                 ]
             },
             {
                 texto: "As redes sociais oferecem oportunidades de acesso a informações relevantes e rápidas, mas exigem discernimento para filtrar o que é verdadeiro.",
                 afirmacao: [
                 "Embora as redes sociais ofereçam uma abundância de informações, é necessário discernir corretamente o que é verdadeiro, tornando-se essencial o desenvolvimento da capacidade crítica do usuário para filtrar as fontes confiáveis.",
-                "afirmaçao 2"
+                "As plataformas digitais permitem acesso imediato a conteúdos educativos e jornalísticos, desde que o usuário saiba identificar fontes seguras."
                 ]
             }
         ]
@@ -52,14 +52,14 @@ const perguntas = [
                 texto: "Sim, a coleta de dados pessoais representa um risco considerável para a privacidade e pode ser usada de maneira indevida.",
                 afirmacao:[
                      " A coleta massiva de dados pessoais na internet representa um risco significativo à privacidade dos usuários, uma vez que esses dados podem ser utilizados indevidamente por empresas ou indivíduos com más intenções.",
-                     "afirmaçao 2"
+                     "O uso não autorizado de informações pessoais pode levar a fraudes, roubo de identidade e violação da intimidade dos usuários."
                 ]
             },
             {
                 texto: "Não, desde que as empresas sigam normas de proteção de dados, os riscos podem ser minimizados, e a coleta pode ser benéfica",
                 afirmacao:[
                      "A coleta de dados pessoais não é um risco, desde que as empresas sigam normas de segurança e proteção de dados, garantindo que os usuários sejam informados e que suas informações sejam tratadas com transparência.",
-                     "afirmaçao 2"
+                     "Quando realizada de forma ética e regulada, a coleta de dados pode melhorar serviços e personalizar experiências sem comprometer a privacidade."
                 ]
             }
         ]
@@ -71,14 +71,14 @@ const perguntas = [
                 texto: "Sim, a dependência digital pode causar vícios e diminuir o tempo dedicado a atividades produtivas e relacionamentos reais.",
                 afirmacao:[
                      "A dependência de tecnologias e redes sociais pode diminuir a produtividade e prejudicar as relações pessoais, pois muitas vezes as pessoas acabam se isolando e deixando de interagir de forma significativa no mundo real.",
-                     "afirmaçao 2"
+                     "O uso excessivo de dispositivos digitais pode levar à procrastinação e à dificuldade de concentração em tarefas importantes."
                 ]
             },
             {
                 texto: "Não, acredito que as tecnologias podem ser usadas de forma equilibrada, ajudando na produtividade e facilitando o contato com amigos e familiares.",
                 afirmacao:[
                      "As tecnologias e redes sociais, quando usadas de forma equilibrada, podem aumentar a produtividade e facilitar a comunicação, mantendo as pessoas conectadas com familiares, amigos e colegas de trabalho.",
-                     "afirmaçao 2"
+                     "As plataformas digitais podem fortalecer os laços sociais e ampliar as oportunidades de colaboração e aprendizado à distância."
                 ]
             }
         ]
@@ -90,14 +90,14 @@ const perguntas = [
                 texto: "Sim, a desigualdade digital impede que muitas pessoas tenham as mesmas oportunidades educacionais e profissionais.",
                 afirmacao:[
                      " A desigualdade digital é um problema crítico, pois impede que muitas pessoas, especialmente em regiões carentes, tenham acesso a oportunidades educacionais, profissionais e sociais, exacerbando a exclusão social.",
-                     "afirmaçao 2"
+                     "A ausência de inclusão digital reduz as chances de inserção no mercado de trabalho e dificulta o acesso à informação e à educação de qualidade."
                 ]
             },
             {
                 texto: " Não, acredito que com o tempo a tecnologia se tornará acessível a todos, diminuindo a desigualdade digital.",
                 afirmacao:[
                      "Embora a desigualdade digital seja uma preocupação, acredito que a tecnologia se tornará cada vez mais acessível, e em breve todos terão as mesmas oportunidades de participar da revolução digital.",
-                     "afirmaçao 2"
+                     "Com políticas públicas e iniciativas privadas voltadas para inclusão digital, é possível reduzir significativamente as barreiras de acesso à tecnologia."
                 ]
             }
         ]
